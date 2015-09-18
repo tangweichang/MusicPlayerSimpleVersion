@@ -12,6 +12,8 @@
 		3221F8AC1B84FC0300C0E403 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3221F8AA1B84FC0300C0E403 /* Main.storyboard */; };
 		3221F8AE1B84FC0300C0E403 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3221F8AD1B84FC0300C0E403 /* Assets.xcassets */; };
 		3221F8B11B84FC0300C0E403 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3221F8AF1B84FC0300C0E403 /* LaunchScreen.storyboard */; };
+		3221F8B91B84FC1300C0E403 /* back.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3221F8B81B84FC1300C0E403 /* back.mp3 */; };
+		3221F8BD1B84FEAD00C0E403 /* bach.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3221F8BC1B84FEAD00C0E403 /* bach.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		3221F8AD1B84FC0300C0E403 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3221F8B01B84FC0300C0E403 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3221F8B21B84FC0300C0E403 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3221F8B81B84FC1300C0E403 /* back.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = back.mp3; path = ../../back.mp3; sourceTree = "<group>"; };
+		3221F8BC1B84FEAD00C0E403 /* bach.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = bach.jpg; path = ../../bach.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 			children = (
 				3221F8A61B84FC0300C0E403 /* AppDelegate.swift */,
 				3221F8A81B84FC0300C0E403 /* ViewController.swift */,
+				3221F8B81B84FC1300C0E403 /* back.mp3 */,
+				3221F8BC1B84FEAD00C0E403 /* bach.jpg */,
 				3221F8AA1B84FC0300C0E403 /* Main.storyboard */,
 				3221F8AD1B84FC0300C0E403 /* Assets.xcassets */,
 				3221F8AF1B84FC0300C0E403 /* LaunchScreen.storyboard */,
@@ -122,8 +128,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				3221F8B11B84FC0300C0E403 /* LaunchScreen.storyboard in Resources */,
+				3221F8BD1B84FEAD00C0E403 /* bach.jpg in Resources */,
 				3221F8AE1B84FC0300C0E403 /* Assets.xcassets in Resources */,
 				3221F8AC1B84FC0300C0E403 /* Main.storyboard in Resources */,
+				3221F8B91B84FC1300C0E403 /* back.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
